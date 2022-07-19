@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: CollegeBoreal
+@author: Matze
 """
 
-def ???:
-  return ???
+def exo_02():
+	return "Bonjour"
 
 def main():
-  print( exo_02() )
+	print( exo_02() )
 
 if __name__== "__main__":
-  main()
+	main()
